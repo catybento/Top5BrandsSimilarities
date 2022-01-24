@@ -5,17 +5,17 @@
 When a new brand is registered, its image has to be different from all the others already registered.
 Thus, the objective of this project is to show the **5 most similar brand images** from a database, comparing with the new brand to be registered.
 
-To do that, we used *Siamese Neural Networks*:
+To accomplish that, *Siamese Neural Networks* were used:
 ![](Images/rede.png)
 
-To run this project you have to:
+To run this project, please follow this steps:
 - Have a database with brand images
 - Put the correct paths in `DataProcessing.ipynb` and follow the `Initial Instructions`
 - Run `DataProcessing.ipynb`
 - Put the correct paths in `Top5Similarities.ipynb`
 - Run `Top5Similarities.ipynb`
 
-In the end, you'll have a similar result to this:
+In the end, the result should look similar to this:
 
 ![](Images/redefinal.png)
 
