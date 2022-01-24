@@ -15,7 +15,7 @@ To run this project, please follow this steps:
 - Put the correct paths in `Top5Similarities.ipynb`
 - Run `Top5Similarities.ipynb`
 
-In the end, the result should look similar to this:
+In the end, the result should be similar to this:
 
 ![](Images/redefinal.png)
 
