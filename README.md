@@ -3,7 +3,7 @@
 #### Final Project of the AI Course - Samsung Innovation Campus
 
 When a new brand is registered, its image has to be different from all the others already registered.
-Thus, the objective of this project is to show the **5 most similar brand images** from a database, comparing with the new brand we want to register.
+Thus, the objective of this project is to show the **5 most similar brand images** from a database, comparing with the new brand to be registered.
 
 To do that, we used *Siamese Neural Networks*:
 ![](Images/rede.png)
