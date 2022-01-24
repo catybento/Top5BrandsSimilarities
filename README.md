@@ -19,4 +19,4 @@ In the end, you'll have a similar result to this:
 
 ![](Images/redefinal.png)
 
-Please read `report.pdf` if you want to know more about this project and *Siamese Neural Networks*.
+Please read `report.pdf` for more information about this project and *Siamese Neural Networks*.
